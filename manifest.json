@@ -1,0 +1,19 @@
+
+{
+  "name": "Deadline Tracker",
+  "short_name": "Deadline Tracker",
+  "description": "Organize assignments, projects, and deadlines.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f5fc",
+  "theme_color": "#5269e8",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "any",
+      "type": "image/png+xml",
+      "purpose": "any"
+    }
+  ]
+}
